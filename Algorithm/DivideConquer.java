@@ -1,9 +1,9 @@
-public class DvideConquer {
+public class DivideConquer {
 
     public static int getMax(int[] arr, int left, int right) {
-       if (left == right) {
-           return arr[left];
-       }
+        if (left == right) {
+            return arr[left];
+        }
 
         int mid = left + (right - left) / 2;
 
@@ -13,9 +13,8 @@ public class DvideConquer {
         return left > right ? left : right;
     }
 
-
     public static void main(String[] args) {
-        int arr[] = {3, 5, 10, 50, 25, 30, 1, 15};
+        int arr[] = { 3, 5, 10, 50, 25, 30, 1, 15 };
         System.out.println(getMax(arr, 0, arr.length - 1));
     }
 }
