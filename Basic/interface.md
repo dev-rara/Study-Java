@@ -14,7 +14,7 @@
 - 모든 메소드는 "public abstract" 이어야 하며, 이를 생략할 수 있다. (JDK1.8부터 static 메소드와 디폴트 메소드는 예외)  
   
     
-      
+```java      
   접근제어자 interface 인터페이스이름 {
       public static final 타입 상수이름 = 값;
       public abstract 타입 메드이름(매개변수);
@@ -24,12 +24,13 @@
   calss 클래스이름 implements 인터페이스이름 {
           ...
   }      
-
+```
 
 ### 상속과 인터페이스 동시사용
 동시 사용으로 다중 상속과 같은 효과
 
-
+  
+ ```java 
     접근제어자 interface 인터페이스이름 {
             ...
     }
@@ -41,3 +42,4 @@
     class 클래스이름 extends 클래스이름 implements 인터페이스이름 {
             ...
     }
+```
