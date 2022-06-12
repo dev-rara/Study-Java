@@ -11,9 +11,11 @@
   
 일반적인 클래스의 멤버들과 달리 인터페이스의 멤버들은 아래과 같은 제약사항이 있다.  
 - 모든 멤버변수는 "public static final" 이어야 하며, 이를 생략할 수 있다.  
-- 모든 메소드는 "public abstract" 이어야 하며, 이를 생략할 수 있다. (JDK1.8부터 static 메소드와 디폴트 메소드는 예외)
-
+- 모든 메소드는 "public abstract" 이어야 하며, 이를 생략할 수 있다. (JDK1.8부터 static 메소드와 디폴트 메소드는 예외)  
   
+    
+    
+
   
     접근제어자 interface 인터페이스이름 {
         public static final 타입 상수이름 = 값;
