@@ -17,7 +17,7 @@
 ```java      
   접근제어자 interface 인터페이스이름 {
       public static final 타입 상수이름 = 값;
-      public abstract 타입 메드이름(매개변수);
+      public abstract 타입 메소드이름(매개변수);
           ... 
   }
   //인터페이스의 사용
