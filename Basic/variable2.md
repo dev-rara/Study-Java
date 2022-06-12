@@ -33,7 +33,7 @@
 ## 문자(Character)
 한 개의 문자 표현에 사용하는 자료형
     
-    char keyFist = 'a';
+    char keyFirst = 'a';
     char keyLast = 'z';
 
 
