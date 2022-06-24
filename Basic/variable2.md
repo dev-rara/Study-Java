@@ -18,8 +18,8 @@
 * 2진수, 8진수, 16진수의 형태로 출력시 
     
 
-    System.out.println("0b" + Integer.toBinaryString(numBase2));
-    System.out.println("0" + Integer.toOctalString(numBase8));
+    System.out.println("0b" + Integer.toBinaryString(numBase2));  
+    System.out.println("0" + Integer.toOctalString(numBase8));  
     System.out.println("0x" + Integer.toHexString(numBase16));
 
 
@@ -33,7 +33,7 @@
 ## 문자(Character)
 한 개의 문자 표현에 사용하는 자료형
     
-    char keyFist = 'a';
+    char keyFirst = 'a';
     char keyLast = 'z';
 
 

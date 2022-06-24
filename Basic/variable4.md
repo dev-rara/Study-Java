@@ -60,7 +60,7 @@ key, value 형태로 데이터를 저장하는 자료형
 자료형을 명시적으로 지정  
 제한적일 수 있지만 안전성을 높여주고 형변환을 줄여줌
 
-    ArraList<String> l1 = newArrayList<String>();
+    ArraList<String> l1 = new ArrayList<String>();
     HashMap<String, Integer> map1 = new HashMap<String, Integer>();
 
     //사용예

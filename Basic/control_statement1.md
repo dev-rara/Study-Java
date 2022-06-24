@@ -71,17 +71,8 @@
     // 이 경우 "apple"이 출력된다.
 
 
+
     //사용예(2)
-    int number = 5;
-    if (number % 2 == 0) {
-        System.out.println("짝수 입니다.");
-    } else {
-        System.out.println("홀수 입니다");
-    }
-    // 이 경우 "홀수 입니다."가 출력된다.
-
-
-    //사용예(3)
     score = 85;
     grade = 0;
 
