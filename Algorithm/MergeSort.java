@@ -3,7 +3,6 @@
 import java.util.Arrays;
 
 public class MergeSort {
-    
     public static void mergeSort(int[] arr, int[] tmp, int left, int right) {
         if (left >= right) {
             return;
