@@ -1,3 +1,3 @@
 ## JavaBasic
-Basic Study Files
+Basic study files
 
