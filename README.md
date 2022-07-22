@@ -1,4 +1,3 @@
-## For Java Study
+## JavaBasic
+Basic Study Files
 
-### DataStructure    
-### Algorithm
