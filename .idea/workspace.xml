@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269fe514-3ea3-4930-ad75-8e837824376b" name="Changes" comment="add PS files">
-      <change beforePath="$PROJECT_DIR$/Study-Java/Basic/abstractClass.md" beforeDir="false" afterPath="$PROJECT_DIR$/Study-Java/Basic/abstractClass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study-Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicMath/BasicMath_AlgorithmComplexity.md" beforeDir="false" afterPath="$PROJECT_DIR$/BasicMath/BasicMath_AlgorithmComplexity.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study-Java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Study-Java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,7 +87,7 @@
       <workItem from="1655821706317" duration="5000" />
       <workItem from="1656084669656" duration="1987000" />
       <workItem from="1656086708112" duration="1985000" />
-      <workItem from="1658505474467" duration="54000" />
+      <workItem from="1658505474467" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="revise">
       <created>1656084864138</created>
