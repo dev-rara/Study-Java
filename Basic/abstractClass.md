@@ -4,6 +4,7 @@
 자식클래스에서 반드시 오버라이딩 해야하는 메소드  
 선언만 하고 구현 내용 없음
 
+```java
     abstract void print();
      -> {구현내용 없음}
 
@@ -11,7 +12,7 @@
     abstract class Person {
         abstract void printInfo();
     }
-
+```
 
 
 ### 추상 클래스
@@ -20,6 +21,7 @@
 반드시 구현해야 하는 부분에 대해 명시적으로 표현  
 추상 클래스 자체는 객체 생성 불가  
 
+```java
     abstract class 클래스명 {
         ...
         abstract void print();
@@ -43,4 +45,4 @@
             }
         };
     p2.printInfo();
-    
+```
