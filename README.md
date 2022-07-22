@@ -1,5 +1,4 @@
-## DataStructure
+## For Java Study
 
-    
-## Algorithm
-### Programmers
+### DataStructure    
+### Algorithm
